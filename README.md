@@ -1,8 +1,10 @@
 # Actividad 2 - Conceptos y comandos básicos de la replicación en bases de datos NoSQL
 
 
-#### Video: [Video de la actividad](https://drive.google.com/file/d/1uM-SUdROzBQDh2Am1OEOx_n4LcOl0hkQ/view?usp=sharing)
-#### Documento PDF: [Ver docuemnto](https://drive.google.com/file/d/17t87ig6m4aeaDfiM5qwnBk2h-TndwaEM/view?usp=drive_link)
+#### Video: <a href="https://drive.google.com/file/d/1uM-SUdROzBQDh2Am1OEOx_n4LcOl0hkQ/view?usp=sharing" target="_blank" rel="nofollow">Video de la actividad</a>
+
+#### Documento PDF: <a href="https://drive.google.com/file/d/17t87ig6m4aeaDfiM5qwnBk2h-TndwaEM/view?usp=drive_link" target="_blank" rel="nofollow">Ver documento</a>
+
 
 ## Presentado por:  
 - Cristian Leandro Pérez Peláez  
